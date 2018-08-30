@@ -1,0 +1,64 @@
+
+h1 {
+    color: green;
+    font-weight: bold;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h3 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.marca {
+	color:green;
+}
+
+.navbar .navbar-brand {
+    color: green;
+    font-weight: bold;
+}
+
+html, body, .container {
+    height: 100%;
+}
+
+.pantalla {
+    min-height:100%;
+}
+
+.fondoNosotros {
+	background-image: url("../images/1.jpg");
+}
+
+.fondoPublicitarias{
+	background-image: url("../images/2.jpg");
+}
+.fondoInstitucionales{
+	background-image: url("../images/3.jpg");
+}
+.fondoContacto{
+	background-image: url("../images/4.jpg");
+}
+.fondoTiendas{
+	background-image: url("../images/5.jpg");
+}
+.fondoAdministrativas{
+	background-image: url("../images/6.jpg");
+}
+.fondoContactenos{
+	background-image: url("../images/7.jpg");
+}
+
+.parallax {
+ 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo {
+	
+} 
