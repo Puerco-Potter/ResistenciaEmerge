@@ -1,22 +1,36 @@
 
 h1 {
-    color: green;
+    color: #00936d;
+}
+
+.negrita{
     font-weight: bold;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 h3 {
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color:#706f6f
 }
 
+.fechas {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color:white;
+}
+
+h2 {
+    color:#009fe1;
+}
 
 .marca {
-	color:green;
+	color:#00947e;
 }
 
 .navbar .navbar-brand {
     color: green;
     font-weight: bold;
+}
+
+.fondoBarra{
+    background-color: #008e3d !important;
 }
 
 html, body, .container {
@@ -27,24 +41,35 @@ html, body, .container {
     min-height:100%;
 }
 
+.foto {
+    min-height:65%;
+}
+
+.fondoHome {
+    background-image: url("../images/Trama.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .fondoNosotros {
 	background-image: url("../images/1.jpg");
 }
 
 .fondoPublicitarias{
-	background-image: url("../images/2.jpg");
+	background-image: url("../images/Centro.jpg");
 }
 .fondoInstitucionales{
 	background-image: url("../images/3.jpg");
 }
 .fondoContacto{
-	background-image: url("../images/4.jpg");
+	background-image: url("../images/Musica.jpg");
 }
 .fondoTiendas{
 	background-image: url("../images/5.jpg");
 }
 .fondoAdministrativas{
-	background-image: url("../images/6.jpg");
+	background-image: url("../images/Juventud.jpg");
 }
 .fondoContactenos{
 	background-image: url("../images/7.jpg");
@@ -62,3 +87,7 @@ html, body, .container {
 .titulo {
 	
 } 
+
+.fondoboton{
+    background-color: #009bbb !important;
+}
