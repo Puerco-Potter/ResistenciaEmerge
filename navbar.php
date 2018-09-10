@@ -13,10 +13,7 @@
             <a class="nav-link" href="index.php#Informacion">Contactos e Información</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="programa.php">Programa</a>
-          </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="expositores.php">Expositores</a>
+            <a class="nav-link" href="programa.php">Programa y Expositores</a>
           </li>
           <li class="nav-item active">
             <a class="nav-link" href="hoteles.php">Hoteles en Resistencia</a>

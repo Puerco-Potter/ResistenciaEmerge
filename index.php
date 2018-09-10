@@ -17,8 +17,11 @@
 		</div>
         <div id="Nosotros" class="pantalla d-flex align-items-center justify-content-center animatedParent fondoHome">
         	<div class="contenido text-light text-center">
-        		<img style="width:60%;" src="images/LogoYNombre.png">
-        		<h2>PRIMERAS JORNADAS REGIONALES DE SENSIBILIZACIÓN TURÍSTICA MUNICIPAL</h2>
+        		<img style="width:30%;" src="images/LogoYNombre.png">
+                <br>
+                <br>
+        		<h2 class="Titulo" style="text-shadow: 2px 2px 2px;"><big><big><big>PRIMERAS JORNADAS REGIONALES DE <br>SENSIBILIZACIÓN TURÍSTICA MUNICIPAL</big></big></big></h2>
+                <br>
                 <h1><x class="negrita">27</x> y <x class="negrita">28</x> de <x class="negrita">Setiembre</x> de <x class="negrita">2018</x></h1>
         	</div>
         </div>
@@ -37,18 +40,36 @@
         	</div>
         </div>
         <div id="Informacion" class="pantalla d-flex align-items-center justify-content-center animatedParent fondoHome">
-        	<div style="width: 55%" class="contenido text-light animated growIn delay-500 text-center">
+        	<div class="contenido text-light animated growIn delay-500 text-center">
 	        	<h1>Contactos e Información</h1>
 	        	
-	        	<div class="d-flex justify-content-between align-items-center">
-	        			<h3>Información sobre el evento:</h3>
-	        			<h1><x class="negrita">362 - 4444444</x></h1>
+                <div class="text-center">
+                    
+                        <br><h3>Telefonos de contacto:</h3>
+                </div>
+	        	<div class="row">
+	        			<div class="col-sm-6"><h3>Telefono 1:</h3><x style="width: 20px"></x></div>
+	        			<div class="col-sm-6"><h1><x class="negrita">+54 9 362 4458290</x></h1></div>
 	        	</div>
-	        	<div class="d-flex justify-content-between align-items-center">
+	        	<div class="row">
 	        		
-	        			<h3>Información sobre turismo en Resistencia:</h3>
-	        			<h1><x class="negrita">362 - 4444444</x></h1>
+	        			<div class="col-sm-6"><h3>Telefono 2:</h3><x style="width: 20px"></x></div>
+	        			<div class="col-sm-6"><h1><x class="negrita">+54 9 362 4458360</x></h1></div>
 	        	</div>
+                <div class="text-center">
+                    
+                        <br><h3>E-mails de contacto de los organizadores:</h3>
+                </div>
+                <div class="row">
+                    
+                        <div class="col-sm-6 text-left"><h3>Concejal Alicia Frías:</h3><x style="width: 40px"></x></div>
+                        <div class="col-sm-6"><h1><x class="negrita">contactosaliciafrias@gmail.com</x></h1></div>
+                </div>
+                <div class="row">
+                    
+                        <div class="col-sm-6 text-left"><h3>Arquitecto Luis Gusberti:</h3><x style="width: 20px"></x></div>
+                        <div class="col-sm-6"><h1><x class="negrita">arqgusberti@gmail.com</x></h1></div>
+                </div>
 	        	
         	</div>
         </div>
@@ -56,11 +77,46 @@
         	<div class="contenido text-light animated fadeInRightShort delay-900 text-light">
         	</div>
         </div>
-        <div id="Contactenos" class="pantalla d-flex align-items-center justify-content-center animatedParent fondoHome">
-        	<div class="contenido text-light text-center animated flipInX delay-900">
-	        	<h1>INSCRIPCIÓN:</h1>
+        <div id="Contactenos" class="pantalla text-center animatedParent fondoHome">
+            <div style="height: 150px;"></div>
+        	<div class="contenido text-light text-center">
+                <h1>INSCRIPCIÓN:</h1>
 				    <a class="btn btn-primary fondoboton" href="inscripcion.php"><h3 style="color: white">Incribirse a la Jornada</h3></a>
         	</div>
+            <div style="height: 50px;"></div>
+            <h3>Participan:</h3>
+            <br>
+            <div class="row">
+                <div style="width: 5%"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-2"><img width="80%" src="images/isologos/A.png"></div>
+                <div class="col-sm-2"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"></div>
+                <div style="width: 5%"></div>
+            </div>
+            <div class="row">
+                <div style="width: 5%"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"><img width="100%" src="images/isologos/S.png"></div>
+                <div class="col-sm-2"><img width="100%" src="images/isologos/E.png"></div>
+                <div class="col-sm-2"><img width="100%" src="images/isologos/P.png"></div>
+                <div class="col-sm-1"><img width="100%" src="images/isologos/G.png"></div>
+                <div class="col-sm-1"><img width="100%" src="images/isologos/H.png"></div>
+                <div class="col-sm-2"><img width="100%" src="images/isologos/D.jpg"></div>
+                <div class="col-sm-1"></div>
+                <div style="width: 5%"></div>
+            </div>
+            <div style="height: 20px;"></div>
+        </div>
+        <div id="Contacto" class="foto d-flex align-items-center parallax justify-content-center fondoFinal animatedParent fondoHome">
+            <div class="contenido text-light animated fadeInUpShort delay-900">
+            </div>
         </div>
 
        	<?php
