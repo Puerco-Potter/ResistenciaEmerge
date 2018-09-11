@@ -1,5 +1,5 @@
 <nav class="navbar navbar-dark fondoBarra fixed-top navbar-expand-lg navbar-light bg-light">
-      <a style="width:7%;" class="navbar-brand" href="index.php#Nosotros"><img style="width:100%;" src="images/Blanco.png"></a>
+      <a style="width:7%;" class="navbar-brand" href="index.php#Nosotros"><img style="width:100%;" src="images/blanco.png"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -13,10 +13,7 @@
             <a class="nav-link" href="index.php#Informacion">Contactos e Información</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="programa.php">Programa</a>
-          </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="expositores.php">Expositores</a>
+            <a class="nav-link" href="programa.php">Programa y Expositores</a>
           </li>
           <li class="nav-item active">
             <a class="nav-link" href="hoteles.php">Hoteles en Resistencia</a>

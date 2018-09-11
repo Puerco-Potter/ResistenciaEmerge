@@ -41,6 +41,10 @@ html, body, .container {
     min-height:100%;
 }
 
+.pantalla-incripcion {
+    height:100%;
+}
+
 .foto {
     min-height:65%;
 }
@@ -54,6 +58,10 @@ html, body, .container {
 
 .fondoNosotros {
 	background-image: url("../images/1.jpg");
+}
+
+.fondoFinal {
+    background-image: url("../images/Domo.jpg");
 }
 
 .fondoPublicitarias{
