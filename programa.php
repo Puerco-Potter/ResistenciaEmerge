@@ -280,8 +280,19 @@
                                 <td style="text-align:center;">
                                     Tema a Definir
                                 </td>
-                                <td></td>
-                                <td></td>
+                                <td style="text-align:center;">
+                                    Dra. Romina Casafau
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li> Abogada - Facultad de Derecho y Ciencias Sociales y Políticas,(U.N.N.E.).</li>
+                                        <li>2010 Egresada Academia Olímpica Argentina.</li>
+                                        <li>2016 Curso Administración Deportiva Comité Olímpico Argentino(COA).</li>
+                                        <li>2017 Diploma en Gestión de las Organizaciones Deportivas Olímpicas Comité Olímpico Internacional (COI).</li>
+                                        <li>2008 -Actualmente: Instituto del Deporte Chaqueño - Jefe de Departamento Área Regularización Deportiva - Chaco .</li>
+
+                                    </ul>
+                                </td>
                             </tr>
                             <tr>
                                 <td colspan="4" style="text-align:center;">
@@ -376,7 +387,7 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    11:00 hs.
+                                    12:00 hs.
                                     <br>
                                     <strong>Pausa Para Café Almuerzo. <br>
                                 </td>
@@ -454,6 +465,8 @@
                             <tr>
                                  <td style="text-align:center;" colspan="4">
                                     16:30 hs.
+                                    <br>
+                                    <strong>Concejal Lic. Alicia Frías</strong>
                                     <br>
                                     <strong> Plenario: Conclusiones generales del evento y lineamientos posibles a sugerir). <br>
                                    </strong>
