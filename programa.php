@@ -27,7 +27,7 @@
                     <br>
                     <ul>
                         <li>Jueves 27: Centro de Convenciones del Domo del Centenario, (Avda de los Inmigrantes y Río Negro. Resistencia).</li>
-                        <li>Vierenes 20: Casa de las Esculturas, direccion Calle Pte. T. Alvear 100, entre Av. Sarmiento y Mitre.</li>
+                        <li>Viernes 28: Casa de las Esculturas, dirección Calle Pte. T. Alvear 100, entre Av. Sarmiento y Mitre.</li>
                     </ul> 
                     <hr>
                     <h4>Objetivos:</h4>
