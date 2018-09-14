@@ -111,7 +111,7 @@
             </div>
             <div style="height: 20px;"></div>
         </div>
-        <div id="Contacto" class="foto align-items-center parallax justify-content-center fondoFinal fondoHome">
+        <div id="Contacto" class="foto align-items-center parallax justify-content-center fondoFinal">
             <div class="contenido text-light">
             </div>
         </div>

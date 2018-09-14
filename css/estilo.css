@@ -60,6 +60,10 @@ html, body, .container {
 	background-image: url("../images/1.jpg");
 }
 
+.fondoLore {
+    background-image: url("../images/Lore.jpg");
+}
+
 .fondoFinal {
     background-image: url("../images/Domo.jpg");
 }
