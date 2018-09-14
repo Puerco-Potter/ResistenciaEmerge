@@ -91,32 +91,23 @@
             <h3>Participan:</h3>
             <br>
             <div class="container">
+            <div style="width: 5%"></div>
             <div class="row">
-                <div style="width: 5%"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="80%" src="images/isologos/A.png"></div>
-                <div class="col-lg-2"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div style="width: 5%"></div>
+                <div class="col"><img height="120px" src="images/isologos/C.jpg"></div>
+                <div class="col"><img height="150px" src="images/isologos/A.png"></div>
             </div>
+            <div style="width: 5%"></div>
             <div class="row">
-                <div style="width: 5%"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1 col-md-3 col-sm-6"><img width="100%" src="images/isologos/S.png"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="100%" src="images/isologos/E.png"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="100%" src="images/isologos/P.png"></div>
-                <div class="col-lg-1 col-md-3 col-sm-6"><img width="100%" src="images/isologos/G.png"></div>
-                <div class="col-lg-1 col-md-3 col-sm-6"><img width="100%" src="images/isologos/H.png"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="100%" src="images/isologos/D.jpg"></div>
-                <div class="col-lg-1"></div>
-                <div style="width: 5%"></div>
+                <div class="col"><img height="150px" src="images/isologos/G.png"></div>
+                <div class="col"><img height="150px" src="images/isologos/H.png"></div>
+                <div class="col"><img height="110px" src="images/isologos/T.jpg"></div>
+                <div class="col"><img height="150px" src="images/isologos/P.png"></div>
+                <div class="col"><img height="120px" src="images/isologos/D.jpg"></div>
+                <div class="col"><img height="120px" src="images/isologos/CH.png"></div>
+                <div class="col"><img height="150px" src="images/isologos/S.png"></div>
+                <div class="col"><img height="120px" src="images/isologos/E.png"></div>
             </div>
+            <div style="width: 5%"></div>
             </div>
             <div style="height: 20px;"></div>
         </div>
