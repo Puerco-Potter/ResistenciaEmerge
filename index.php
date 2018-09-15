@@ -39,41 +39,39 @@
         	<div class="contenido text-light animated fadeInUpShort delay-900">
         	</div>
         </div>
-        <div id="Informacion" class="pantalla d-flex align-items-center justify-content-center animatedParent fondoHome">
-        	<div class="contenido text-light animated growIn delay-500 text-center">
+        <div id="Informacion" class="pantalla animatedParent fondoHome">
+        	<div class="text-light animated growIn delay-500 text-center">
+                <div style="height: 150px;"></div>
 	        	<h1>Contactos e Información</h1>
-	        	<div class="container">
+	        	<div style="width: 150%" class="container">
                 <div class="text-center">
                     
                         <br><h3>Telefonos de contacto:</h3>
                 </div>
-                
 	        	<div class="row">
-	        			<div class="col-md-6"><h3>Telefono 1:</h3><x style="width: 20px"></x></div>
-	        			<div class="col-md-6"><h1><x class="negrita">+54 9 362 4458290</x></h1></div>
+	        			<div class="col"><h3>Telefono 1:</h3><x style="width: 20px"></x></div>
+	        			<div class="col"><h1><x class="negrita">+54 9 362 4458290</x></h1></div>
 	        	</div>
                 
 	        	<div class="row">
 	        		
-	        			<div class="col-md-6"><h3>Telefono 2:</h3><x style="width: 20px"></x></div>
-	        			<div class="col-md-6"><h1><x class="negrita">+54 9 362 4458360</x></h1></div>
+	        			<div class="col"><h3>Telefono 2:</h3><x style="width: 20px"></x></div>
+	        			<div class="col"><h1><x class="negrita">+54 9 362 4458360</x></h1></div>
 	        	</div>
                 
                 <div class="text-center">
                     
                         <br><h3>E-mails de contacto de los organizadores:</h3>
                 </div>
-                <div class="row">
-                    
-                        <div class="col-md-6 text-left"><h3>Concejal Alicia Frías:</h3><x style="width: 40px"></x></div>
-                        <div class="col-md-6"><h1><x class="negrita">contactosaliciafrias@gmail.com</x></h1></div>
+                <div class="row align-items-end">
+                    <div class="col text-left"><h3>Concejal Alicia Frías:</h3></div>
+                    <div class="col text-right"><h1><x class="negrita">contactosaliciafrias@gmail.com</x></h1></div>
+                    <div class="w-100"></div>
+                    <div class="col text-left"><h3>Arquitecto Luis Gusberti:</h3></div>
+                    <div class="col text-right"><h1><x class="negrita">         arqgusberti@gmail.com</x></h1></div>
+                  </div>
                 </div>
-                <div class="row">
-                    
-                        <div class="col-md-6 text-left"><h3>Arquitecto Luis Gusberti:</h3><x style="width: 20px"></x></div>
-                        <div class="col-md-6"><h1><x class="negrita">arqgusberti@gmail.com</x></h1></div>
-                </div>
-                </div>
+                <div style="height: 150px;"></div>
 	        	
         	</div>
         </div>
@@ -91,36 +89,27 @@
             <h3>Participan:</h3>
             <br>
             <div class="container">
+            <div style="width: 5%"></div>
             <div class="row">
-                <div style="width: 5%"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="80%" src="images/isologos/A.png"></div>
-                <div class="col-lg-2"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1"></div>
-                <div style="width: 5%"></div>
+                <div class="col"><img height="120px" src="images/isologos/C.jpg"></div>
+                <div class="col"><img height="150px" src="images/isologos/A.png"></div>
             </div>
+            <div style="width: 5%"></div>
             <div class="row">
-                <div style="width: 5%"></div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-1 col-md-3 col-sm-6"><img width="100%" src="images/isologos/S.png"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="100%" src="images/isologos/E.png"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="100%" src="images/isologos/P.png"></div>
-                <div class="col-lg-1 col-md-3 col-sm-6"><img width="100%" src="images/isologos/G.png"></div>
-                <div class="col-lg-1 col-md-3 col-sm-6"><img width="100%" src="images/isologos/H.png"></div>
-                <div class="col-lg-2 col-md-6 col-sm-12"><img width="100%" src="images/isologos/D.jpg"></div>
-                <div class="col-lg-1"></div>
-                <div style="width: 5%"></div>
+                <div class="col"><img height="150px" src="images/isologos/G.png"></div>
+                <div class="col"><img height="150px" src="images/isologos/H.png"></div>
+                <div class="col"><img height="110px" src="images/isologos/T.jpg"></div>
+                <div class="col"><img height="150px" src="images/isologos/P.png"></div>
+                <div class="col"><img height="120px" src="images/isologos/D.jpg"></div>
+                <div class="col"><img height="120px" src="images/isologos/CH.png"></div>
+                <div class="col"><img height="150px" src="images/isologos/S.png"></div>
+                <div class="col"><img height="120px" src="images/isologos/E.png"></div>
             </div>
+            <div style="width: 5%"></div>
             </div>
             <div style="height: 20px;"></div>
         </div>
-        <div id="Contacto" class="foto align-items-center parallax justify-content-center fondoFinal fondoHome">
+        <div id="Contacto" class="foto align-items-center parallax justify-content-center fondoFinal">
             <div class="contenido text-light">
             </div>
         </div>
