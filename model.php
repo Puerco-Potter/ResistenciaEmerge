@@ -2,8 +2,8 @@
         
     function conectar(){
         $servername = "localhost";
-        $username = "root";
-        $password = "";
+        $username = "u626645697_mono";
+        $password = "100Monos";
         $dbname = "u626645697_rciae";
 
         // Create connection
