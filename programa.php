@@ -27,7 +27,7 @@
                     <br>
                     <ul>
                         <li>Jueves 27: Centro de Convenciones del Domo del Centenario, (Avda de los Inmigrantes y Río Negro. Resistencia).</li>
-                        <li>Viernes 28: Casa de las Esculturas, dirección Calle Pte. T. Alvear 100, entre Av. Sarmiento y Mitre.</li>
+                        <li>Viernes 28: Casa de las Esculturas: Mitre 119, esquina T.Alvear (Resistencia).</li>
                     </ul> 
                     <hr>
                     <h4>Objetivos:</h4>
@@ -70,8 +70,8 @@
                                 <td colspan="3">
                                     <ul>
                                         <li>	Palabras del Presidente del Concejo Municipal de Resistencia  MMO Gustavo Martínez.</li>
-                                        <li>	Palabras del Intendente de la Ciudad de Resistencia  CPN Jorge M. Capitanich.</li>
-                                        <li>	Palabras del Gobernador de la Provincia del Chaco ,Ing, Oscar Domingo Peppo.</li>
+                                        <li>	Palabras del Intendente de la Ciudad de Resistencia CPN Jorge M. Capitanich.</li>
+                                        <li>	Palabras del Gobernador de la Provincia del Chaco Ing, Oscar Domingo Peppo.</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -166,8 +166,9 @@
                                         <li>Egresada de Ciencias de la Comunicación UNNE y UNLP.</li>
                                         <li>Cursos de Post grado: Alta Gerencia Pública (INAP). </li>
                                         <li>Educación de Adultos (UBA) Política y Desarrollo del Turismo y Turismo Rural, Universidad Pantheon Sorbonne IV, Paris, Francia. Organización de Hoteles. Universidad de Alcalá de Henares- España e Int. Internacional de TURISMO MARBELLA ,España. </li>
-                                        <li>Se  desempeño en la Secretaria de Turismo de la Nación en el Dpto. de Recursos Humanos  ,en 1993  como Directora Ejecutiva de Relaciones Institucionales y  actualmente consultora privada. </li>
+                                        <li>Se  desempeño en la Secretaria de Turismo de la Nación en el Dpto. de Recursos Humanos y desde 1993  como Directora Ejecutiva de Relaciones Institucionales y en el Ministerio de Turismo de la Nación en la Calidad y Formación para el Turismo por Concurso Público. </li>
                                         <li>Creadora del Programa Federal de Formación y Capacitación en turismo para la Secretaría y luego Ministerio de Turismo de la Nación, mas de 3 mil acciones realizadas.</li>
+                                        <li>Actualmente es Consultora Privada.</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -182,7 +183,7 @@
                                 <td colspan="4" style="text-align:center;">
                                     13:30 hs. 
                                     <br>
-                                    <strong>Intervalo / Corte para café-almuerzo.</strong>
+                                    <strong>Intervalo para Almorzar.</strong>
                                 </td>
                             </tr>
                             <tr>
@@ -195,7 +196,7 @@
                                     Turismo y Accesibilidad. 
                                 </td>
                                 <td style="text-align:center;">
-                                    Cinthia Vega, (Resistencia). 
+                                    Cinthia María Vega, (Resistencia). 
                                     <img src="images/expositores/expositor-4.png" alt="" style="margin-top:20px;">
                                 </td>
                                 <td>
@@ -203,9 +204,10 @@
                                         <li>Técnica en traducción literaria y científica en español-inglés .</li>
                                         <li>Profesora de inglés para alumnos ciegos o de escasa visión en braile o informática.</li>
                                         <li>Productora Radial en Emisoras de Resistencia.</li>
-                                        <li>Impulsora de la Ley Nacional del acceso del Perro Guía N° 26.858,y la Ordenanza Municipal del Día del Perro Guía N° 11.863, (Res.)</li>
+                                        <li>Impulsora de la Ley Nacional 
+                                         del Perro Guía N° 26.858,y la Ordenanza Municipal del Día del Perro Guía N° 11.863, (Res.)</li>
                                         <li>Representante cultural de la Editora en Braile Tifloluz</li>
-                                        <li>Premio Santa Clara de Asís, (2017) y Premio Mujer del Año del Rotary Club, (2017)</li>
+                                        <li>Premio Santa Clara de Asís, (2017) y Premio Mujer del Año del Rotary Club, (2017).</li>
                                     </ul> 
                                 </td>
                             </tr>
@@ -249,13 +251,13 @@
                             </tr>
                             <tr>
                                 <td colspan="4" style="text-align:center;">
-                                        16:15 hs.
+                                        16:30 hs.
                                         <br>
                                         <strong>Pausa Para Café.</strong>
                                 </td>
                             <tr>
                                 <td style="text-align:center;">
-                                    16:45 hs.
+                                    17:00 hs.
                                     <br>
                                     <strong>Sexta Ponencia<br> (30 minutos). </strong>
                                 </td>
@@ -278,14 +280,51 @@
                             </tr>
                             <tr >
                                 <td colspan="4" style="text-align:center;">
-                                        17,15 hs.
+                                        17:30 hs.
                                         <br>
                                         <strong>Preguntas del Público<br> (10 minutos).  </strong>                                 
                                 </td>
                             </tr>
                             <tr>
+                                 <td colspan="4" style="text-align:center;">
+                                        18:00 hs.
+                                        <br>
+                                        <strong>Cierra Jornadas del día Jueves 27. </strong>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+
+                    {# el programa para el dia viernes #}
+                    <br>
+                     <table class="table table-striped table-bordered" style="color:black;text-align:left;">
+                        <thead class="thead-dark">
+                            <tr>
+                            <th scope="col"colspan="4" style="text-align:center;" ><h3 style="color:white;">Viernes 28 de Septiembre</h3>
+                                <h5  style="color:#009fe1;">Viernes 28: Casa de las Esculturas: Mitre 119, esquina T.Alvear (Resistencia).</h5>
+                            </th>
+                            </tr>
+                        </thead>
+                        <thead class="thead" style="color:white;background-color:#008e3d;text-align:center;">
+                            <tr>
+                            <th scope="col"  style="width: 20%" >Horario</th>
+                            <th scope="col"  style="width: 20%" >Temática</th>
+                            <th scope="col"  style="width: 20%" >Expositor</th>
+                            <th scope="col"   style="width:40%">Información del Expositor</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td colspan="4" style="text-align:center;">
+                                       09:00 hs.
+                                       <br>
+                                       <strong>Recepción.</strong>
+                                </td>
+                            </tr>
+                            <tr>
                                 <td style="text-align:center;">
-                                    17,30 hs.
+                                    10:30 hs.
                                     <br>
                                    <strong> Septima Ponencia<br> (30 minutos). </strong>
                                 </td>
@@ -308,109 +347,38 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td colspan="4" style="text-align:center;">
-                                        18:00 hs.
-                                        <br>
-                                         <strong>Preguntas del Público<br> (10 minutos).</strong>
-                                </td>
-                            </tr>
-                            <tr>
-                                 <td colspan="4" style="text-align:center;">
-                                        18:30 hs.
-                                        <br>
-                                        <strong>Cierra Jornadas del día Jueves 27. </strong>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    
-
-                    {# el programa para el dia viernes #}
-                    <br>
-                     <table class="table table-striped table-bordered" style="color:black;text-align:left;">
-                        <thead class="thead-dark">
-                            <tr>
-                            <th scope="col"colspan="4" style="text-align:center;" ><h3 style="color:white;">Viernes 28 de Septiembre</h3>
-                                <h5  style="color:#009fe1;">Lugar: Casa de las Esculturas, direccion Calle Pte. T. Alvear 100, entre Av. Sarmiento y Mitre.</h5>
-                            </th>
-                            </tr>
-                        </thead>
-                        <thead class="thead" style="color:white;background-color:#008e3d;text-align:center;">
-                            <tr>
-                            <th scope="col"  style="width: 20%" >Horario</th>
-                            <th scope="col"  style="width: 20%" >Temática</th>
-                            <th scope="col"  style="width: 20%" >Expositor</th>
-                            <th scope="col"   style="width:40%">Información del Expositor</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td colspan="4" style="text-align:center;">
-                                       09:00 hs.
-                                       <br>
-                                       <strong>Recepción.</strong>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center;">
-                                    10:00 hs.
-                                    <br>
-                                    <strong>Octava Ponencia
-                                    <br> (30 minutos).</strong>
-                                </td>
-                                <td style="text-align:center;">
-                                  <strong> Tema a Definir</strong> 
-                                </td>
-                                <td>
-
-                                </td>
-                                <td>
-
-                                </td>
-                            </tr>
-                            <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    10:30 hs.
-                                    <br>
-                                    <strong> Preguntas del Público <br>
-                                    <strong>(10 minutos).</strong>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center;">
                                     11:00 hs.
                                     <br>
-                                    <strong>Novena Ponencia
-                                    <br> (30 minutos).</strong>
-                                </td>
-                                <td style="text-align:center;">
-                                  <strong> Tema a Definir</strong> 
-                                </td>
-                                <td>
-
-                                </td>
-                                <td>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center;" colspan="4" >
-                                    11:30 hs.
-                                    <br>
                                     <strong> Preguntas del Público <br>
                                     <strong>(10 minutos).</strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
+                                    11:30 hs.
+                                    <br>
+                                    <strong> Pausa para Café. <br>
+                                </td>
+                            </tr>>
+                            <tr>
+                                <td style="text-align:center;" colspan="4" >
                                     12:00 hs.
                                     <br>
-                                    <strong>Pausa Para Café Almuerzo. <br>
+                                    <strong> Breve Pausa Técnica. <br>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center;" colspan="4">
+                                    12:30 hs.
+                                    <br>
+                                    <strong>Intervalo para Almorzar. <br>
                                 </td>
                             </tr>
                             <tr >
                                 <td style="text-align:center;" >
                                         13:30 hs <br>
-                                        <strong>Decima Ponencia <br>(30 minutos).</strong> 
+                                        <strong>Octava Ponencia <br>(30 minutos).</strong> 
                                 </td>
                                 <td  style="text-align:center;">
                                     Latinoamérica: Una Reserva Turística
@@ -433,16 +401,23 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    14:15 hs.
+                                    14:00 hs.
                                     <br>
                                     <strong> Preguntas del Público <br>
                                     (10 minutos).</strong>
                                 </td>
                             </tr>
                             <tr>
+                                <td style="text-align:center;" colspan="4">
+                                    14:30 hs.
+                                    <br>
+                                    <strong> Breve Pausa Técnica. <br>
+                                </td>
+                            </tr>
+                            <tr>
                                 <td style="text-align:center;" >
-                                        14:30 hs <br>
-                                        <strong>Decima Primera Ponencia  <br>(30 minutos).</strong> 
+                                        14:45 hs <br>
+                                        <strong>Novena Ponencia  <br>(30 minutos).</strong> 
                                 </td>
                                 <td  style="text-align:center;">
                                     Hablemos pues de Turismo
@@ -463,7 +438,7 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    15:00 hs.
+                                    15:15 hs.
                                     <br>
                                     <strong> Preguntas del Público <br>
                                     (10 minutos).</strong>
@@ -471,9 +446,17 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    15:15 hs.
+                                    15:30 hs.
                                     <br>
-                                    <strong> Pausa para el café. <br>
+                                    <strong> Pausa para el Café. <br>
+                                    (10 minutos).</strong>
+                                </td>
+                            </tr>
+                             <tr>
+                                <td style="text-align:center;" colspan="4">
+                                    16:00 hs.
+                                    <br>
+                                    <strong> Breve Pausa Técnica. <br>
                                     (10 minutos).</strong>
                                 </td>
                             </tr>
@@ -503,7 +486,7 @@
                                  <td style="text-align:center;" colspan="4">
                                     17:30 hs.
                                     <br>
-                                    <strong> CIERRE NORNADAS – ENTREGA DE CERTIFICADOS A LOS ASISTENTES Y PÚBLICO EN GENERAL. <br>
+                                    <strong> CIERRE JORNADAS. <br>
                                    </strong>
                                 </td>
                             </tr>
