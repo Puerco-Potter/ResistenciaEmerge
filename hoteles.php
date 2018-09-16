@@ -52,6 +52,9 @@
 
                 </div>
         	</div>
+        	</div>
+        </div>
+        <div id="Contacto" class="foto align-items-center parallax justify-content-center fondoMaqueda">
         </div>	
        	<?php
        		require("footer.php");
