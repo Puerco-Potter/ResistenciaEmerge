@@ -14,7 +14,7 @@
 
         
 
-        <div id="Contactenos" class="pantalla d-flex align-items-center justify-content-center animatedParent fondoHome">
+        <div id="Contactenos" class="fondoHome">
             <div class="contenido text-light text-center " style="margin-top:10%;">
             <div style="width:95%; margin-right:auto;margin-left:auto;">
                 <h2> “PRIMERAS JORNADAS REGIONALES DE SENSIBILIZACION TURÍSTICA MUNICIPAL”</h2> 
@@ -496,7 +496,7 @@
             </div>
         </div>
         <div id="Contacto" class="foto align-items-center parallax justify-content-center fondoLore">
-        </div
+        </div>
        	<?php
        		require("footer.php");
        	?>
