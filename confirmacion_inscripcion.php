@@ -72,7 +72,7 @@
     </body>
     <script language="javascript" type="text/javascript">
       function openWin() {
-        window.open("pdf.php?id='<?php echo $ins;?>'");          
+        window.open("credencial_inscripcion.php?inscripcion_id='<?php echo $ins;?>'");      
       }
     </script>
     <?php
