@@ -332,7 +332,7 @@
                                     El deporte y el turismo.
                                 </td>
                                 <td style="text-align:center;">
-                                    Dra. Romina Casafau
+                                    Dra. Romina Casafu
                                    <img class="img-fluid" src="images/expositores/expositor-7.png" alt="" style="margin-top:20px;">
                                 </td>
                                 <td>
@@ -474,11 +474,10 @@
                                 </td>
                                 <td>
                                     <ul>
-                                        <!-- <li>Directora de Turismo de la Municipalidad de la ciudad de Encarnación, (Paraguay) y Autora/ejecutora del Proyecto de Sensibilización Turística “Hablemos Pues de Turismo”,(2018)”.</li>
-                                        <li>Abogada-de la Universidad Católica de Itapua.</li>
-                                        <li>Docente Universitaria Post grado en la Universidad Católica de Itapua.</li>
-                                        <li>Especialista en Niñez, Adolescencia y Derechos Humanos, por la Universidad Nacional de Itapua.</li>
-                                        <li>Asesora de Imagen Personal Diplomatura realizada en Garbo Imágen ,(2015).</li> -->
+                                        <li>Licenciada en Ciencias del Gobierno UCES.</li>
+                                        <li>Tesis de Economía Política de la Escuela de Gobierno en convenio con la Universidad de San Martín de Bs. As. Con Tesis en Resolución.</li>
+                                        <li>Posgrado en Especialización de Gestión Pública Provincial y Municipal de la UNNE (Facultad de Ciencias Económicas).Trabajo Final en Resolución.</li>
+                                        <li>Concejal del el Municipio de la Ciudad de Resistencia.</li>
                                     </ul>
                                 </td>
                             </tr>
