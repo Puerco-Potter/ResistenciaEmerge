@@ -39,19 +39,18 @@ class PDF extends FPDF
 	// Creacion del objeto de la clase heredada
 	$pdf = new PDF();
 	$pdf->AliasNbPages();
-	$pdf->AddPage();
+	$pdf->AddPage("","A4");
 
 	$conn= conectar();
 	$filas= mysqli_query($conn, "SELECT * FROM inscripciones WHERE id=".$inscripcion_id);
 
-	$pdf->Image('images/gafeteDeParticipantes.jpg',0,0,200,300,'JPG');
-	$pdf->SetFont('Times','',20);
+	$pdf->Image('images/gafeteDeParticipantes.jpg',20,20,80,120,'JPG');
+	$pdf->SetFont('Helvetica','',12);
 	$fila=mysqli_fetch_array($filas);
-	$pdf->Cell(0,160,"",0,1);
+	$pdf->Cell(0,80,"",0,1);
 	//$pdf->Cell(0,10,"Apellido y Nombre: ". $fila['apellido'].", ".$fila['nombre'],0,1);
-	$pdf->Cell(0,20,"    ".$fila['apellido'].", ".$fila['nombre'],0,1);
+	$pdf->Cell(100,12,$fila['apellido'],0,1, "C");
+	$pdf->Cell(100,0,$fila['nombre'],0,1, "C");
 	$pdf->Output();
-
-
 
 ?>
