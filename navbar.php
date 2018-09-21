@@ -21,10 +21,7 @@
         </ul>
         <ul class="navbar-nav float-right">
           <li class="nav-item active bg-secondary">
-              <a class="nav-link" href="inscripcion.php">Imprimir mi credencial</a>
-            </li>
-            <li class="nav-item active bg-secondary">
-              <p> </p>
+              <a class="nav-link" href="mi_credencial.php">Imprimir mi credencial</a>
             </li>
           <li class="nav-item active fondoboton">
               <a class="nav-link" href="inscripcion.php">Inscribirse a la Jornada</a>
