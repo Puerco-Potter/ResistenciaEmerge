@@ -2,6 +2,7 @@
 
 include "model.php";
 require('fpdf/fpdf.php');
+header("Content-type: application/pdf; charset=utf-8");
 
 $inscripcion_id= $_GET['inscripcion_id'];
 
@@ -42,6 +43,7 @@ class PDF extends FPDF
 	$pdf->AddPage("","A4");
 
 	$conn= conectar();
+	mysqli_set_charset($conn, "utf8");
 	$filas= mysqli_query($conn, "SELECT * FROM inscripciones WHERE id=".$inscripcion_id);
 
 	$pdf->Image('images/gafeteDeParticipantes.jpg',20,20,80,120,'JPG');
@@ -49,8 +51,8 @@ class PDF extends FPDF
 	$fila=mysqli_fetch_array($filas);
 	$pdf->Cell(0,80,"",0,1);
 	//$pdf->Cell(0,10,"Apellido y Nombre: ". $fila['apellido'].", ".$fila['nombre'],0,1);
-	$pdf->Cell(100,12,$fila['apellido'],0,1, "C");
-	$pdf->Cell(100,0,$fila['nombre'],0,1, "C");
+	$pdf->Cell(100,12,utf8_decode($fila['apellido']),0,1, "C");
+	$pdf->Cell(100,0,utf8_decode($fila['nombre']),0,1, "C");
 	$pdf->Output();
 
 ?>
