@@ -302,7 +302,7 @@
                         <thead class="thead-dark">
                             <tr>
                             <th scope="col"colspan="4" style="text-align:center;" ><h3 style="color:white;">Viernes 28 de Septiembre</h3>
-                                <h5  style="color:#009fe1;">Viernes 28: Casa de las Esculturas: Mitre 119, esquina T.Alvear (Resistencia).</h5>
+                                <h5  style="color:#009fe1;">Lugar: Auditorio de la Facultad de Arquitectura, Urbanismo y Diseño Gráfico de la UNNE: Av. Las Heras 727 (Resistencia).</h5>
                             </th>
                             </tr>
                         </thead>
@@ -324,7 +324,7 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;">
-                                    10:30 hs.
+                                    10:00 hs.
                                     <br>
                                    <strong> Septima Ponencia<br> (30 minutos). </strong>
                                 </td>
@@ -348,7 +348,7 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    11:00 hs.
+                                    10:30 hs.
                                     <br>
                                     <strong> Preguntas del Público <br>
                                     <strong>(10 minutos).</strong>
@@ -356,28 +356,14 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    11:30 hs.
+                                    11:00 hs.
                                     <br>
                                     <strong> Pausa para Café. <br>
-                                </td>
-                            </tr>>
-                            <tr>
-                                <td style="text-align:center;" colspan="4" >
-                                    12:00 hs.
-                                    <br>
-                                    <strong> Breve Pausa Técnica. <br>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center;" colspan="4">
-                                    12:30 hs.
-                                    <br>
-                                    <strong>Intervalo para Almorzar. <br>
                                 </td>
                             </tr>
                             <tr >
                                 <td style="text-align:center;" >
-                                        13:30 hs <br>
+                                        12:00 hs <br>
                                         <strong>Octava Ponencia <br>(30 minutos).</strong> 
                                 </td>
                                 <td  style="text-align:center;">
@@ -401,7 +387,7 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    14:00 hs.
+                                    12:30 hs.
                                     <br>
                                     <strong> Preguntas del Público <br>
                                     (10 minutos).</strong>
@@ -409,14 +395,14 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    14:30 hs.
+                                    13:00 hs.
                                     <br>
-                                    <strong> Breve Pausa Técnica. <br>
+                                    <strong>Intervalo para Almorzar. <br>
                                 </td>
                             </tr>
                             <tr>
                                 <td style="text-align:center;" >
-                                        14:45 hs <br>
+                                        14:00 hs <br>
                                         <strong>Novena Ponencia  <br>(30 minutos).</strong> 
                                 </td>
                                 <td  style="text-align:center;">
@@ -438,7 +424,7 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    15:15 hs.
+                                    14:30 hs.
                                     <br>
                                     <strong> Preguntas del Público <br>
                                     (10 minutos).</strong>
@@ -446,23 +432,15 @@
                             </tr>
                             <tr>
                                 <td style="text-align:center;" colspan="4">
-                                    15:30 hs.
+                                    15:00 hs.
                                     <br>
                                     <strong> Pausa para el Café. <br>
                                     (10 minutos).</strong>
                                 </td>
                             </tr>
-                             <tr>
-                                <td style="text-align:center;" colspan="4">
-                                    16:00 hs.
-                                    <br>
-                                    <strong> Breve Pausa Técnica. <br>
-                                    (10 minutos).</strong>
-                                </td>
-                            </tr>
                             <tr>
                                 <td style="text-align:center;" >
-                                        16:30 hs <br>
+                                        16:00 hs <br>
                                         <strong>Plenario.</strong> 
                                 </td>
                                 <td  style="text-align:center;">
@@ -483,7 +461,7 @@
                             </tr>
                             <tr>
                                  <td style="text-align:center;" colspan="4">
-                                    17:30 hs.
+                                    17:00 hs.
                                     <br>
                                     <strong> CIERRE JORNADAS. <br>
                                    </strong>
