@@ -27,7 +27,7 @@
                     <br>
                     <ul>
                         <li>Jueves 27: Centro de Convenciones del Domo del Centenario, (Avda de los Inmigrantes y Río Negro. Resistencia).</li>
-                        <li>Viernes 28: Casa de las Esculturas: Mitre 119, esquina T.Alvear (Resistencia).</li>
+                        <li>Viernes 28: Auditorio de la Facultad de Arquitectura, Urbanismo y Diseño Gráfico de la UNNE: Av. Las Heras 727 (Resistencia).</li>
                     </ul> 
                     <hr>
                     <h4>Objetivos:</h4>
